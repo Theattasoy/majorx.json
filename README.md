@@ -1,1 +1,1 @@
-arasakner.jsor
+arasakner.json
